@@ -1,0 +1,7 @@
+# Data files
+data
+.env
+
+# Temporary files
+__pycache__
+.ipynb_checkpoints
